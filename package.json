@@ -1,0 +1,16 @@
+{
+  "name": "moment-extensions-sppro",
+  "version": "1.0.0",
+  "description": "Helpful extensions for momentjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0",
+    "moment": "^2.24.0"
+  }
+}
